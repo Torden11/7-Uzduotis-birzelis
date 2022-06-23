@@ -10,7 +10,7 @@
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://torden11.github.io/5-astronaut/
+Site published at: https://torden11.github.io/7-Uzduotis-birzelis/
 
 
 ## Project features
