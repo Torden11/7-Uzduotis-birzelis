@@ -1,13 +1,15 @@
 body {
     width: 1000px;
+    margin: 0 calc(50% - 500px) 20px;
     display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 40px;
 }
 
 
 .main {
-    display: inline-block;
     width: 170px;
-    margin: 0 calc(50% - 500px) 20px;
     font-family: system-ui, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
 
@@ -15,12 +17,11 @@ body {
     color: #e36858;
     text-align: center;
     text-transform: uppercase;
-}
-
-.text {
-    text-align: center;
+    margin-top: 50px;
 }
 
 .logotipas {
+    width: 140px;
+    height: 140px;
     display: inline;
 }
